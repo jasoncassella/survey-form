@@ -1,0 +1,18 @@
+html {
+  background-color: rgba(123, 13, 226, 0.507);
+  color: whitesmoke;
+  margin: 10px 50px 20px;
+}
+
+#form {
+  margin: auto;
+  max-width: 60%;
+  padding: 3% 3%;
+  background-color: purple;
+  display: flex;
+  border-radius: 5px;
+}
+
+h1, p {
+  text-align: center;
+}
